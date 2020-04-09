@@ -3,5 +3,5 @@
 ## Learning Objectives
 
 - Basic Unix Shell commands
-- Install and Configure Gut using the Unix Shell
+- Install and Configure Git using the Unix Shell
 - Github overview
