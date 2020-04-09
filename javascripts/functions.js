@@ -15,6 +15,15 @@ arrAvg([2,3,5,7,9]);
 
 //Req. 3c
 
-//let arrMax = (arr) {
-  //
-//};
+let arrMax = (arr) => {
+  let num = 0;
+
+for (var i = 0; i < arr.length; i++) {
+  if (arr[i] > num) {
+    num = arr[i];
+  }
+}
+return num;
+};
+
+arrMax([2,3,5,7,9]);
